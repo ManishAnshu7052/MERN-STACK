@@ -13,4 +13,4 @@ const cars3 =[];
 cars3[0]="BMW";
 cars3[1]="Saab";
 cars3[2]="Volvo";
-console.log(cars3);
+console.log(cars3);//[ 'BMW', 'Saab', 'Volvo' ]
