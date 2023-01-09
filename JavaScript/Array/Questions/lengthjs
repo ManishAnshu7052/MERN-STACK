@@ -9,5 +9,5 @@ function arryLength(){
     return length;
 }
 
-//output = 6
+//output = 6 
     
