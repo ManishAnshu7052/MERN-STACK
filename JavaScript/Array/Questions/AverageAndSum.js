@@ -9,4 +9,4 @@ for(var i=0;i<nums.length;i++){
 console.log(totalSum);//21
 
 var avg = totalSum/l;
-console.log("Average " + avg);//Average 3.5
+console.log("Average " + avg);
