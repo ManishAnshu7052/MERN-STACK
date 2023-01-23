@@ -1,0 +1,25 @@
+body{
+    background-color: beige;
+}
+.one{
+    border-style: solid;
+    border-color: red;
+}
+.two{
+    border-style: solid;
+    border-color: green;
+}
+.three{
+    border-style: solid;
+    border-color: blue;
+}
+.four{
+    border-style: solid;
+    border-color: red green blue yellow;
+}
+.side{
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+}
