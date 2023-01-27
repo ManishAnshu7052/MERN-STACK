@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: powderblue;
+}
+a:link{
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+}
+a:hover{
+    background-color: palevioletred;
+}
