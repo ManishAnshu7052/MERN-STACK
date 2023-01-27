@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: powderblue;
+}
+a:link{
+    background-color: yellow;
+}
+a:visited{
+    background-color: cyan;
+}
+a:hover{
+    background-color: lightblue;
+}
+a:active{
+    background-color: hotpink;
+}
+a{
+    text-decoration: none;
+}
