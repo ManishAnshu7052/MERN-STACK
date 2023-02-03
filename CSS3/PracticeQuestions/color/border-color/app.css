@@ -1,0 +1,18 @@
+h1{
+    background-color: darkslategray;
+    color: #ffffff;
+    border: 1px solid red;
+    width: 50%;
+}
+h2{
+    background-color: aquamarine;
+    color: #ffffff;
+    border: 1px solid greenyellow;
+    width: 40%;
+}
+h3{
+    background-color: cyan;
+    color: #ffffff;
+    border: 1px solid beige;
+    width: 30%;
+}
