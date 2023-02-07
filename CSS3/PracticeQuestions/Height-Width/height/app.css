@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: blanchedalmond;
+}
+h1{
+    background-color: aqua;
+    border: 2px solid gray;
+    color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+    height: 100px;
+    outline: 3px solid black;
+    outline-offset: 2px;
+}
+.first{
+    background-color: darkred;
+    border: 2px solid black;
+    color: #ffffff;
+    padding: 10px;
+    margin: 20px;
+    width: 50%;
+    height: 100px;
+    outline: 5px solid red;
+    outline-offset: 5px;
+}
