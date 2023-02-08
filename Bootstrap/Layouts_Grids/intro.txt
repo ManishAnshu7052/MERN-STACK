@@ -1,0 +1,32 @@
+1.What is a Responsive Design?-
+            Responsive Web design is the approach that suggest that design and development should respond to the users behavior and environment based on screen size. plateform and orientation.
+
+      *The practice consists of a mix of flexible grids and layouts , images and an intelligent use of CSS media queries.
+
+2.What is a Box Model?-
+          In CSS .term "Box Model" is used when talking about design and layout.The CSS box model is essential a box that wraps around every HTML element. It consists of:Margin,Borders,Padding,and the actual content.
+
+3.Bootstrap Container Layout-
+          - Container are the most basic layout element in Bootstrap.
+          - Containers are used to pad the content inside of them.
+          - there are two Container classes availabe:
+          The .Container class provides a Responsive fixed width Container
+          The .Container-fluid class provides a full width container.spanning the entire width of the viewport.
+
+          .Container-fluid- Width is always 100%.
+          .Container-Dimensions of Fixed Container.
+
+          GRID classess
+4.Bootstrap Grid Features-
+        - Bootstrap's grid system allows up to 12 coloumns across the page.
+        - Rows 
+        - coloumns
+        - Supports various screen resolution like xs,sm,md,lg,xl,xxl.
+
+5.Bootstrap grid Features-
+        - Extra small(xs)
+        - Small(sm)
+        - Medium(md)
+        - Large(lg)
+        - Extra large(xl)
+        - Extra extra large(xxl)                                       
