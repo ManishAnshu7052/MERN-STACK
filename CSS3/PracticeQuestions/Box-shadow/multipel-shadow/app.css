@@ -1,0 +1,7 @@
+.box{
+    width: 250px;
+    height: 200px;
+    border: 2px solid black;
+    background-color: pink;
+    box-shadow: 6px 6px 7px red,12px 12px 3px green,18px 18px 3px blue;
+}
