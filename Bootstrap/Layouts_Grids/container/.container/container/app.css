@@ -1,0 +1,18 @@
+.body{
+    background-color: #ddd;
+}
+.header{
+    background-color: chartreuse;
+    height: 40px;
+}
+.content{
+    min-height: 600px;
+    
+}
+.main-content{
+    min-height: 600px;
+}
+.footer{
+    background-color: fuchsia;
+    height: 40px;
+}
