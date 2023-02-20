@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+#demo{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}

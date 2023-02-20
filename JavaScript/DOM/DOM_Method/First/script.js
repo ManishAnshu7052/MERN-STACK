@@ -1,0 +1,1 @@
+document.getElementById("demo").innerHTML="Manish Kumar patel";
