@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: mintcream;
+}
+h1{
+    width: 400px;
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+.text{
+    width: 400px;
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    text-align-last: right;
+    text-transform: capitalize;
+    text-indent: 50px;
+    word-spacing: 20px;
+    letter-spacing: 10px;
+}
