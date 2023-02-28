@@ -1,0 +1,32 @@
+.box1{
+    width: 300px;
+    color: blue;
+    border: 2px solid black;
+    white-space: nowrap;
+    padding: 10px;
+    margin: 10px;
+}
+.box2{
+    width: 300px;
+    color: brown;
+    border: 2px solid black;
+    white-space: pre;
+    padding: 10px;
+    margin: 10px;
+}
+.box3{
+    width: 300px;
+    color:palevioletred;
+    border: 2px solid black;
+    white-space: pre-line;
+    padding: 10px;
+    margin: 10px;
+}
+.box4{
+    width: 300px;
+    color:hotpink;
+    border: 2px solid black;
+    white-space: pre-wrap;
+    padding: 10px;
+    margin: 10px;
+}
