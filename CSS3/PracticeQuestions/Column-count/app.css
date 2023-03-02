@@ -1,0 +1,40 @@
+.demo1{
+    width: 1000px;
+    border: 2px solid black;
+    column-count: 3;
+}
+.demo2{
+    width: 1000px;
+    margin-top: 10px;
+    border: 2px solid black;
+    column-count: 3;
+    column-gap: 100px;
+}
+.demo3{
+    width: 1000px;
+    margin-top: 10px;
+    border: 0px solid black;
+    column-count: 3;
+    column-rule-width: 2px;
+    column-rule-style:double;
+    column-rule-color: red;
+
+}
+.sort-hand{
+    width: 1000px;
+    margin-top: 10px;
+    border: 2px solid black;
+    column-count: 3;
+    column-rule: 5px dotted red;
+
+}
+.column-width{
+    width: 1000px;
+    margin-top: 10px;
+    border: 2px solid black;
+    column-width: 150px;
+    column-rule: 5px dotted red;
+}
+h2{
+    column-span: all;
+}
