@@ -1,0 +1,10 @@
+@font-face{
+    font-family: openSans;
+    src: url(font/OpenSans-Regular.ttf);
+}
+h1{
+    font-family: openSans;
+}
+.font{
+    font-family: openSans;
+}
