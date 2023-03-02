@@ -1,0 +1,6 @@
+body{
+    background-image: url(img/tree.jpg),url(img/images.jpg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: 40% 10%, right 50%;
+    /* background: gold url(img/tree.jpg) no-repeat right center */
+}
