@@ -1,0 +1,13 @@
+body{
+    background: tan;
+}
+.box{
+    width: 800px;
+    height: 400px;
+    padding: 15px;
+    border: 2px solid black;
+    background-color: white;
+    background-image: url(tree.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
