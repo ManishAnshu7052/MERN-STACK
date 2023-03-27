@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       
+        #box1{
+            border: 2px solid gray;
+            width: 100px;
+            margin: 10px;
+            padding: 10px;
+            background-color: aqua;
+        }
+        #box2{
+            border: 2px solid gray;
+            width: 100px;
+            margin: 10px;
+            padding: 10px;
+            background-color: aqua;
+        }
+        #box3{
+            border: 2px solid gray;
+            width: 100px;
+            margin: 10px;
+            padding: 10px;
+            background-color: aqua;
+        }
+        #box4{
+            border: 2px solid gray;
+            width: 100px;
+            margin: 10px;
+            padding: 10px;
+            background-color: aqua;
+        }
+        #box5{
+            border: 2px solid gray;
+            width: 100px;
+            margin: 10px;
+            padding: 10px;
+            background-color: aqua;
+        }
+    </style>
+</head>
+<body>
+    <center>
+    <div id="box1" onmousedown="fun1(this)">onMouseDown</div>
+    <div id="box2" onmouseup="fun2(this)">onMouseUp</div>
+    <div id="box3" onmouseup="fun3(this)">onMouseUp</div>
+    <div id="box4" onmouseup="fun4(this)">onMouseOver</div>
+    <div id="box5" onmouseup="fun5(this)">onMouseOut</div>
+    </center>
+    <script>
+       function fun1(x){
+        console.log("onMouseDown event activated");
+       }
+       function fun2(x){
+        console.log("onMouseUp event activated");
+       }
+       function fun3(x){
+        console.log("onMouseup event activated");
+       }
+       function fun4(x){
+        console.log("onMouseOver event activated");
+       }
+       function fun5(x){
+        console.log("onMouseOut event activated");
+       }
+    </script>
+</body>
+</html>
