@@ -1,0 +1,50 @@
+#text{
+    width: 500px;
+    border: 1px solid gainsboro;
+    color: darkgreen;
+    text-align: justify;
+}
+#text2{
+    width: 500px;
+    border: 1px solid blueviolet;
+    margin-top: 10px;
+    direction: rtl;
+}
+#text3{
+    width: 500px;
+    border: 1px solid green;
+    margin-top: 10px;
+}
+img{
+    border: 1px solid black;
+    vertical-align: middle;
+}
+/* text decoration */
+#text4{
+    width: 500px;
+    border: 1px solid gray;
+    margin-top: 10px;
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    text-decoration: none;
+    /* text-decoration: line-through; */
+    /* text-transform: uppercase; */
+    /* text-transform: capitalize;
+    line-height: 30px;
+    text-indent: 50px; */
+    /* letter-spacing: 10px; */
+    /* word-spacing: 10px; */
+    white-space: pre;
+}
+/* text shadow */
+#shadow{
+    font-size: 70px;
+    text-shadow: 3px 10px 5px red;
+}
+/* vertical */
+#tex{
+    width: 500px;
+    border: 1px solid black;
+    /* writing-mode: vertical-lr; */
+    writing-mode: vertical-rl;
+}
