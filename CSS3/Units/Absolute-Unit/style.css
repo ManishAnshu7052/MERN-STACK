@@ -1,0 +1,18 @@
+/* 
+1. cm
+2. mm
+3. In (inch)
+4. Px (1 inch = 96px)
+5. Pt (1 inch = 72pt)
+6. Pc (1 pc = 12pt)
+*/
+
+#parent{
+    border: 1px solid red;
+    /* width: 10cm; */
+    /* width: 100mm; */
+    /* width: 5in; */
+    /* width: 400px; */
+    /* width: 400pt; */
+    width: 50pc;
+}
