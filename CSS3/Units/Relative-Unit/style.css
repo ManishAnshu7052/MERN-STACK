@@ -1,0 +1,25 @@
+/* 
+1.Em - em is relative to the size of its direct parent
+2.Rem - rem is only relative to root (html tag) size
+3.Vh - 1% of view port height
+4.Vw - 1% of view port width
+5.% - relative to parent
+*/
+
+html{
+    font-size: 14px;
+}
+#parent{
+    /* border: 1px solid red;
+    width: 800px;
+     height: 50vh;
+     width: 50vw;  */
+     font-size: 40px;
+}
+#child{
+    /* border: 1px solid blue;
+    width: 50%; */
+    /* font-size: 2em; */
+    font-size: 2rem;
+
+}
