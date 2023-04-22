@@ -1,0 +1,21 @@
+div{
+    border: 1px solid gray;
+    background-color: green;
+    color: #fff;
+    width: 500px;
+    /* cursor: alias; */
+    /* cursor: all-scroll; */
+    /* cursor: auto; */
+    /* cursor: cell; */
+    /* cursor: col-resize; */
+    /* cursor: context-menu; */
+    /* cursor: copy; */
+    /* cursor: crosshair; */
+    /* cursor: default; */
+    /* cursor: e-resize; */
+    /* cursor: ew-resize; */
+    /* cursor: grab; */
+    /* cursor: progress; */
+    cursor: pointer;
+
+}
